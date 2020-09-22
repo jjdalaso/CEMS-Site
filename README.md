@@ -1,1 +1,3 @@
-A simple website design revamp for CEMS.ph. Practice bootstrap activity with Brayn Brigoli and Christopher Reid - Kodigo Code Camp
+A simple website design revamp for CEMS.ph. Practice bootstrap activity with Brayn Brigoli and Christopher Reid - Kodigo Code Camp \
+\
+__Live URL:__ https://jjdalaso.github.io/CEMS-Site/
