@@ -1,6 +1,6 @@
 A simple website design revamp for CEMS.ph. Practice bootstrap activity with Brayn Brigoli and Christopher Reid - Kodigo Code Camp \
 \
-__Live URL:__  <a href="https://jjdalaso.github.io/CEMS-Site/" target="_blank">https://jjdalaso.github.io/CEMS-Site/</a> 
+__Live URL:__  <a href="https://jjdalaso.github.io/CEMS-Site/">https://jjdalaso.github.io/CEMS-Site/</a> 
 
 __Tools Used:__
 1. HTML
